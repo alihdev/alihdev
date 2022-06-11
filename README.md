@@ -1,6 +1,6 @@
-- 👋 Hi, I’m ali hassan @alihdev
-- 👀 I’m interested in programming
-- 🌱 I’m currently work as a full stack web developer ...
+- 👋 @alihdev
+- Ali hassan programming
+- Work as a full stack web developer ...
 
 <!---
 alihdev/alihdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
