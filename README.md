@@ -1,4 +1,6 @@
-### Hi there 👋
+### Ali Hassan  👋
+- @alihdev
+- full stack developer
 
 <!--
 **alihdev/alihdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
