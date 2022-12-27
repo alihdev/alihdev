@@ -1,6 +1,7 @@
 ### Ali Hassan  👋
-- @alihdev
+- [@alihdev](https://github.com/alihdev)
 - full stack developer
+- [@alihassan12r](https://github.com/alihassan12r) is my personal account
 
 <!--
 **alihdev/alihdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
