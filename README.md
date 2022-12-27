@@ -3,6 +3,8 @@
 - full stack developer
 - [@alihassan12r](https://github.com/alihassan12r) is my personal account
 
+[<img src="https://icons.iconarchive.com/icons/sicons/flat-shadow-social/512/linkedin-icon.png" width=40 alt="ali hassan linkedin">](https://www.linkedin.com/in/ali-hassan-b6b4b5198/)
+
 <!--
 **alihdev/alihdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
